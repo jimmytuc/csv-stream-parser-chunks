@@ -1,0 +1,3 @@
+timestamp,transaction_type,token,amount
+1571967208,DEPOSIT,BTC,0.298660
+1571967200,DEPOSIT,ETH,0.683640
